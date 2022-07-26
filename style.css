@@ -50,7 +50,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   float: none;
   margin-right: 0;
 }
-.menu-button{color: white}
+.menu-button{color: white; border-radius: 10px;}
 .ads{height: 100%; border-radius: 10px; color: white; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
 .location {margin-top: 40px}
 .logo {margin-top: 20px; text-align: center; font-size: 25px; font-weight: 400; background-color: #ffbd27; padding: 5px; border-radius: 100px; color: white; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; width: 180px; border: 1px solid #1e2a3d}

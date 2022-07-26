@@ -44,7 +44,7 @@
       <div class="container-fluid">
         
         <button class="navbar-toggler" style="border:none;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <div class="menu-button" style="background-color:#1e2a3d; padding: 20px">MENU</a></div>
+        <div class="menu-button" style="background-color:#1e2a3d; padding: 20px"><i class="fa-solid fa-ellipsis-vertical"></i> MENU</a></div>
         </button>
         <div class="collapse navbar-collapse justify-content-center " id="navbarNav">
           <ul class="navbar-nav">
