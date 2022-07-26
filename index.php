@@ -58,6 +58,7 @@
     </div>
     <div class="container">
       <div class="row">
+      <?php query_posts('showposts=10&orderby=date&cat=3,2'); ?>
       <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
         <div class="col-lg-3">
           <center>
