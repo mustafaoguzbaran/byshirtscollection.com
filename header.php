@@ -20,9 +20,9 @@
         <div class="col-lg-4">
           <center>
           <div class="location">
-       <i class="fa-solid fa-language" style="font-size: 23px; color: #1e2a3d;"></i><a style="color:#1e2a3d"><?php echo do_shortcode('[gtranslate]'); ?></a>
-          <i style="font-size: 25px; color: #1e2a3d;" class="fa-solid fa-location-dot"></i><a style="font-size: 13px;"> Made in Istanbul / Turkey&nbsp;&nbsp;&nbsp;</a>
-          <i class="fa-solid fa-phone"></i><a style="font-size: 13px;"> +90 530 231 47 21</a>
+       <i class="fa-solid fa-language" style="font-size: 13px; color: #1e2a3d;"></i><a style="color:#1e2a3d"><?php echo do_shortcode('[gtranslate]'); ?></a>
+          <i style="font-size: 13px; color: #1e2a3d;" class="fa-solid fa-location-dot"></i><a style="font-size: 10px;"> Made in Istanbul / Turkey&nbsp;&nbsp;&nbsp;</a>
+          <i style="font-size: 13px" class="fa-solid fa-phone"></i><a style="font-size: 10px;"> +90 530 231 47 21</a>
         </div>
           </center>
       </div>
